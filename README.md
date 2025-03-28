@@ -4,18 +4,10 @@
 本项目用于实验室开发机测试，作为一个独立的线程模块，嵌入到原有的闸机项目中，替代了原有的基于传感器的通行检测和判断。
 
 以下是效果图
-![1](G:\2025\code\project\opencv\演示\1.jpg)
-
-![3](G:\2025\code\project\opencv\演示\3.jpg)
-
-
-
-![4](G:\2025\code\project\opencv\演示\4.jpg)
-
-![5](G:\2025\code\project\opencv\演示\5.jpg)
-
-
-
-![6](G:\2025\code\project\opencv\演示\6.jpg)
-
-![7](G:\2025\code\project\opencv\演示\7.jpg)
+![图片描述](https://github.com/Seppura-y/DepthCamAutoGateMachine/blob/1742960c1abb41d613e57cdbaf7f9083da053ec4/1.jpg)
+![图片描述](https://github.com/Seppura-y/DepthCamAutoGateMachine/blob/1742960c1abb41d613e57cdbaf7f9083da053ec4/2.jpg)
+![图片描述](https://github.com/Seppura-y/DepthCamAutoGateMachine/blob/1742960c1abb41d613e57cdbaf7f9083da053ec4/3.jpg)
+![图片描述](https://github.com/Seppura-y/DepthCamAutoGateMachine/blob/1742960c1abb41d613e57cdbaf7f9083da053ec4/4.jpg)
+![图片描述](https://github.com/Seppura-y/DepthCamAutoGateMachine/blob/1742960c1abb41d613e57cdbaf7f9083da053ec4/5.jpg)
+![图片描述](https://github.com/Seppura-y/DepthCamAutoGateMachine/blob/1742960c1abb41d613e57cdbaf7f9083da053ec4/6.jpg)
+![图片描述](https://github.com/Seppura-y/DepthCamAutoGateMachine/blob/1742960c1abb41d613e57cdbaf7f9083da053ec4/7.jpg)
